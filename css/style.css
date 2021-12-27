@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Arial', sans-serif;
+}
+
+/* Navbar */
+
+.nav-link:hover {
+    color: black !important;
+    transition: all 0.5s ease-out;
+}
+
+.dropdown-item:hover {
+    color: black !important;
+    transition: all 0.5s ease-out;
+}
